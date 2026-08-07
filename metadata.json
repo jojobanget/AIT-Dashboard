@@ -1,0 +1,6 @@
+{
+  "name": "Pantau Karhutla AIT - MADANI Berkelanjutan",
+  "description": "Platform Pemantauan Kebakaran Hutan dan Lahan di Indonesia berbasis Area Indikatif Terbakar (AIT) dan Edukasi Konsep AIT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
